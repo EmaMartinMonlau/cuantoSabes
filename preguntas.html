@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Juego</title>
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo-container">
+            <img id="logo" src="imagenes/logo.png" alt="Logo">
+            <h2>CuantoSabes</h2>
+        </a>
+        <div class="header-derecha">
+            <p class="info-jugador">Jugador: <span id="display-jugador"></span></p>   
+            <a href="preguntasIngles.html" class="enlace-idioma">
+                <img id="idioma" src="imagenes/idiomas.png" alt="Idioma">
+                <span>English</span>
+            </a>
+        </div>
+    </header>
+    <main class="contenedor-juego">
+        <div id="contenedor-preguntas"></div>
+        <button id="btn-comprobar" class="btn-neon" onclick="comprobarRespuestas()">Comprobar respuestas</button>
+    </main>
+
+    <div id="modal-resultados" class="oculto">
+        <div class="contenido-modal">
+            <h2 id="mensaje-final"></h2>
+            <p class="texto-gris">PUNTUACIÓN FINAL</p>
+            <h3 id="puntuacion-final" class="texto-amarillo"></h3>
+            <button class="btn-neon" onclick="window.location.href='index.html'">Volver a jugar</button>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "respuestas": [
+            "Nilo",
+            "Amazonas",
+            "Yangtsé",
+            "Misisipi"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "respuestas": [
+            "Mario Vargas Llosa",
+            "Julio Cortázar",
+            "Gabriel García Márquez",
+            "Isabel Allende"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "respuestas": [
+            "Ag",
+            "Au",
+            "Fe",
+            "O"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 4,
+        "pregunta": "¿En qué año llegó el hombre a la Luna?",
+        "respuestas": [
+            "1965",
+            "1969",
+            "1971",
+            "1959"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "respuestas": [
+            "Marte",
+            "Saturno",
+            "Júpiter",
+            "Neptuno"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+        "respuestas": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "respuestas": [
+            "Atlántico",
+            "Índico",
+            "Ártico",
+            "Pacífico"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+        "respuestas": [
+            "China",
+            "Estados Unidos",
+            "Canadá",
+            "Rusia"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Qué idioma es el más hablado en el mundo como lengua materna?",
+        "respuestas": [
+            "Español",
+            "Inglés",
+            "Chino Mandarín",
+            "Hindi"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "respuestas": [
+            "Tibia",
+            "Fémur",
+            "Húmero",
+            "Peroné"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 11,
+        "pregunta": "¿En qué continente se encuentra Egipto?",
+        "respuestas": [
+            "Asia",
+            "África",
+            "Europa",
+            "Oceanía"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Quién es el autor de 'Don Quijote de la Mancha'?",
+        "respuestas": [
+            "Lope de Vega",
+            "Francisco de Quevedo",
+            "Miguel de Cervantes",
+            "Pedro Calderón de la Barca"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "respuestas": [
+            "Sídney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué gas respiramos principalmente?",
+        "respuestas": [
+            "Oxígeno",
+            "Dióxido de carbono",
+            "Hidrógeno",
+            "Nitrógeno"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+        "respuestas": [
+            "León",
+            "Guepardo",
+            "Caballo",
+            "Avestruz"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué instrumento musical tiene teclas blancas y negras?",
+        "respuestas": [
+            "Violín",
+            "Guitarra",
+            "Piano",
+            "Trompeta"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 17,
+        "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+        "respuestas": [
+            "Italia",
+            "Alemania",
+            "España",
+            "Francia"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuántos continentes hay en el modelo tradicional hispanohablante?",
+        "respuestas": [
+            "5",
+            "6",
+            "7",
+            "4"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué vitamina nos aporta principalmente el sol?",
+        "respuestas": [
+            "Vitamina A",
+            "Vitamina B12",
+            "Vitamina C",
+            "Vitamina D"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es la moneda oficial de Japón?",
+        "respuestas": [
+            "Yuan",
+            "Yen",
+            "Won",
+            "Dólar"
+        ],
+        "correcta": 1
+    }
+]

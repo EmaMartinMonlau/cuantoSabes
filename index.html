@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Página Principal</title>
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo-container">
+            <img id="logo" src="imagenes/logo.png" alt="Logo">
+            <h2 id="titulo">CuantoSabes</h2>
+        </a>   
+        <a href="indexIngles.html" class="enlace-idioma">
+            <img id="idioma" src="imagenes/idiomas.png" alt="Idioma">
+            <span>English</span>
+        </a>
+    </header>
+    <main class="contenedor-principal">
+        <h4 class="subtitulo">¡BIENVENIDO AL JUEGO DE TRIVIA SUPREMO!</h4>
+        <h1>Pon a prueba tu mente con <span class="texto-amarillo">CuantoSabes</span></h1>
+        <p class="texto-gris">¿Cuánto sabes? ¡Demuéstralo!</p>
+        
+        <div class="tarjeta-login">
+            <p>Tu nombre o nickname</p>
+            <input type="text" id="nickname" placeholder="Ej. Carlos">
+            <button class="btn-neon" onclick="guardarYComenzar()">Iniciar Juego</button>
+        </div>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>

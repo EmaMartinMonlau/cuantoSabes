@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "pregunta": "What is the longest river in the world?",
+        "respuestas": [
+            "Nile",
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 2,
+        "pregunta": "Who wrote 'One Hundred Years of Solitude'?",
+        "respuestas": [
+            "Mario Vargas Llosa",
+            "Julio Cortázar",
+            "Gabriel García Márquez",
+            "Isabel Allende"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 3,
+        "pregunta": "What is the chemical symbol for gold?",
+        "respuestas": [
+            "Ag",
+            "Au",
+            "Fe",
+            "O"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 4,
+        "pregunta": "In what year did man land on the moon?",
+        "respuestas": [
+            "1965",
+            "1969",
+            "1971",
+            "1959"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 5,
+        "pregunta": "What is the largest planet in the solar system?",
+        "respuestas": [
+            "Mars",
+            "Saturn",
+            "Jupiter",
+            "Neptuno"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 6,
+        "pregunta": "Who painted the 'Mona Lisa'?",
+        "respuestas": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 7,
+        "pregunta": "What is the largest ocean in the world?",
+        "respuestas": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 8,
+        "pregunta": "What is the largest country in the world by land area?",
+        "respuestas": [
+            "China",
+            "United States",
+            "Canada",
+            "Russia"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 9,
+        "pregunta": "What is the most spoken native language in the world?",
+        "respuestas": [
+            "Spanish",
+            "English",
+            "Mandarin Chinese",
+            "Hindi"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 10,
+        "pregunta": "What is the longest bone in the human body?",
+        "respuestas": [
+            "Tibia",
+            "Femur",
+            "Humerus",
+            "Fibula"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 11,
+        "pregunta": "In which continent is Egypt located?",
+        "respuestas": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "Oceania"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 12,
+        "pregunta": "Who is the author of 'Don Quixote'?",
+        "respuestas": [
+            "Lope de Vega",
+            "Francisco de Quevedo",
+            "Miguel de Cervantes",
+            "Pedro Calderón de la Barca"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 13,
+        "pregunta": "What is the capital of Australia?",
+        "respuestas": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 14,
+        "pregunta": "Which gas is most abundant in the air we breathe?",
+        "respuestas": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 15,
+        "pregunta": "What is the fastest land animal in the world?",
+        "respuestas": [
+            "Lion",
+            "Cheetah",
+            "Horse",
+            "Ostrich"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 16,
+        "pregunta": "Which musical instrument has black and white keys?",
+        "respuestas": [
+            "Violin",
+            "Guitar",
+            "Piano",
+            "Trumpet"
+        ],
+        "correcta": 2
+    },
+    {
+        "id": 17,
+        "pregunta": "In which country is the Eiffel Tower located?",
+        "respuestas": [
+            "Italy",
+            "Germany",
+            "Spain",
+            "France"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 18,
+        "pregunta": "How many continents are there in the traditional Hispanic model?",
+        "respuestas": [
+            "5",
+            "6",
+            "7",
+            "4"
+        ],
+        "correcta": 1
+    },
+    {
+        "id": 19,
+        "pregunta": "Which vitamin do we primarily get from the sun?",
+        "respuestas": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "correcta": 3
+    },
+    {
+        "id": 20,
+        "pregunta": "What is the official currency of Japan?",
+        "respuestas": [
+            "Yuan",
+            "Yen",
+            "Won",
+            "Dollar"
+        ],
+        "correcta": 1
+    }
+]
